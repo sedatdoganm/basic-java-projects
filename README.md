@@ -7,8 +7,4 @@ This repository contains simple and beginner-friendly Java projects designed to 
 ## Projects Included
 
 - **Geometric Shapes Calculator**: Demonstrates the use of abstract classes by calculating area and perimeter of various shapes.
-- *(Add your other projects here with a brief description)*
-
-## Purpose
-
-The aim of this repository is to provide clear, easy-to-understand examples for those who are new to Java or want to practice fundamental programming concepts.
+- **Basic Math Library**: A basic math library packaged as a JAR that provides addition, subtraction, multiplication, and division functions. It can be easily added as a dependency in other Java projects.
